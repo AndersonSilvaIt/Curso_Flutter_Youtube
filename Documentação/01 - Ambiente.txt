@@ -1,0 +1,13 @@
+Primeiro é necessário instalar o SDK do Flutter
+https://docs.flutter.dev/get-started/install
+
+descompatar o arquivo em uma pasta,
+--> iniciar "digitar env" e colcoar o caminho do /bin nas variáveis de ambiente
+
+Extensões do VSCode
+
+Flutter
+
+"rodar o comando "flutter doctor" irá verificar a instalação do Flutter e se tem alguma melhoria a ser implementada.
+
+para criar um novo projeto, ir na pasta que deseja criar --> "flutter create"
